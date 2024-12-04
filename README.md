@@ -7,4 +7,20 @@ cloud infrastructure, and optimizing CI/CD workflows to enhance software deliver
 speed and quality. Proficient in AWS, Docker, Kubernetes, and Terraform, with 
 hands-on experience in building scalable infrastructure and monitoring systems. 
 Strong scripting abilities in Python and Bash, with a focus on security, scalability, and 
-team collaboration to drive seamless operations
+team collaboration to drive seamless operation
+
+
+ * Skills
+ 
+ AWS
+ Git
+ Jenkins
+ Docker
+ Kubernetes
+ Ansible
+ Terraform
+ GitLab CI/CD
+ Grafana
+ Prometheus
+ ELK Stack
+ Pytho
