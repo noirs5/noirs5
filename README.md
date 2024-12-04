@@ -1,4 +1,4 @@
-## Hi there  I'm Olivier 
+## Hi there  I'm Olivier My pic.jpg
 
 DevOps Engineer skilled in automating deployment pipelines, managing 
 cloud infrastructure, and optimizing CI/CD workflows to enhance software delivery 
